@@ -1,0 +1,17 @@
+{
+  "name": "aluno-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec node index.js"
+  },
+  "author": "Marlon",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7",
+    "uuid": "^11.0.2",
+    "uuidv4": "^6.2.13"
+  }
+}
